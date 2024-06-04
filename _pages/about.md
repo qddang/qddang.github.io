@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD candidate in Economics at the University of Wisconsin - Madison. My main field is in Macroeconomics. I will be on the job market in 2024-2025.
+I am a PhD candidate in the Department of Economics at the University of Wisconsin - Madison. My research interest focuses on Macroeconomics. I am on the job market for 2024-2025.
+
+Email: dqdang@wisc.edu
